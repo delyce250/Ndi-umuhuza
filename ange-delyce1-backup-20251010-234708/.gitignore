@@ -1,13 +1,7 @@
 node_modules
 .env
-.env.local
 .DS_Store
 .vscode/
 .next/
 .netlify/
 dist/
-*.log
-.venv/
-__pycache__/
-*.pyc
-analytics/outputs/
